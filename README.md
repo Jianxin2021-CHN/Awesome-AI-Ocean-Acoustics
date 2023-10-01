@@ -27,7 +27,7 @@
 
 - **Automated extraction of baleen whale calls based on the pseudo-Wigner–Ville distribution**
 
-​		*(The Journal of the Acoustical Society of America, 2023) [[PDF]](https://doi.org/10.1121/10.0017457)*
+  *(The Journal of the Acoustical Society of America, 2023) [[PDF]](https://doi.org/10.1121/10.0017457)*
 
 - **A Novel Noise-Aware Deep Learning Model for Underwater Acoustic Denoising** 
 
@@ -95,7 +95,7 @@
 
 - **Detecting Submerged Objects Using Active Acoustics and Deep Neural Networks: A Test Case for Pelagic Fish**
 
-​		*(IEEE Transactions on Mobile Computing, 2020) [[PDF]](https://doi.org/10.1109/TMC.2020.3044397)*
+  *(IEEE Transactions on Mobile Computing, 2020) [[PDF]](https://doi.org/10.1109/TMC.2020.3044397)*
 
 
 
@@ -105,7 +105,7 @@
 
 - **Using deep learning for acoustic event classification: The case of natural disasters**
 
-​		*(The Journal of the Acoustical Society of America, 2021) [[PDF]](https://doi.org/10.1121/10.0004771)*
+  *(The Journal of the Acoustical Society of America, 2021) [[PDF]](https://doi.org/10.1121/10.0004771)*
 
 ### Rainfall/Wind Estimation 
 
@@ -123,7 +123,7 @@
 
 - **A survey of sound source localization with deep learning methods** 
 
-​		*(The Journal of the Acoustical Society of America, 2022) [[PDF]](https://doi.org/10.1121/10.0011809)*
+  *(The Journal of the Acoustical Society of America, 2022) [[PDF]](https://doi.org/10.1121/10.0011809)*
 
 
 
@@ -135,7 +135,7 @@
 
 - **Automatic Detection of Underwater Small Targets Using Forward-Looking Sonar Images**
 
-​		*(IEEE Transactions on Geoscience and Remote Sensing, 2022) [[PDF]](https://ieeexplore.ieee.org/document/9791304)*
+  *(IEEE Transactions on Geoscience and Remote Sensing, 2022) [[PDF]](https://ieeexplore.ieee.org/document/9791304)*
 
 
 
@@ -143,7 +143,7 @@
 
 - **Monitoring ocean biogeochemistry with autonomous platforms**
 
-​		*(Nature Reviews Earth & Environment, 2020) [[PDF]](https://www.nature.com/articles/s43017-020-0053-y)*
+  *(Nature Reviews Earth & Environment, 2020) [[PDF]](https://www.nature.com/articles/s43017-020-0053-y)*
 
 - **Acoustical Observation With Multiple Wave Gliders for Internet of Underwater Things**
 
